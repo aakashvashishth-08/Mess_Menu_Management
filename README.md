@@ -1,4 +1,4 @@
-# Mess Menu Manager# Mess Menu Manager
+# Mess Menu Manager
 
 ## 1. Project Overview
 
