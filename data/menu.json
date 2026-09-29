@@ -1,0 +1,142 @@
+{
+    "Monday": {
+        "Breakfast": [
+            "Poha",
+            "Tea"
+        ],
+        "Lunch": [
+            "Dal",
+            "Rice",
+            "Roti",
+            "Aloo Sabzi"
+        ],
+        "Snacks": [
+            "Samosa",
+            "Tea"
+        ],
+        "Dinner": [
+            "Paneer",
+            "Roti",
+            "Rice"
+        ]
+    },
+    "Tuesday": {
+        "Breakfast": [
+            "Aloo Paratha",
+            "Curd"
+        ],
+        "Lunch": [
+            "Rajma",
+            "Rice",
+            "Roti",
+            "Salad",
+            "Daal"
+        ],
+        "Snacks": [
+            "Biscuits",
+            "Tea"
+        ],
+        "Dinner": [
+            "Mix Veg",
+            "Dal",
+            "Roti"
+        ]
+    },
+    "Wednesday": {
+        "Breakfast": [
+            "Idli",
+            "Sambar"
+        ],
+        "Lunch": [
+            "Chole",
+            "Rice",
+            "Roti"
+        ],
+        "Snacks": [
+            "Sandwich",
+            "Tea"
+        ],
+        "Dinner": [
+            "Dal Makhani",
+            "Rice",
+            "Roti"
+        ]
+    },
+    "Thursday": {
+        "Breakfast": [
+            "Poha",
+            "Tea"
+        ],
+        "Lunch": [
+            "Kadhi",
+            "Rice",
+            "Roti"
+        ],
+        "Snacks": [
+            "Samosa",
+            "Tea"
+        ],
+        "Dinner": [
+            "Paneer Masala",
+            "Roti",
+            "Rice"
+        ]
+    },
+    "Friday": {
+        "Breakfast": [
+            "Paratha",
+            "Curd"
+        ],
+        "Lunch": [
+            "Dal",
+            "Rice",
+            "Roti",
+            "Sabzi"
+        ],
+        "Snacks": [
+            "Maggi",
+            "Tea"
+        ],
+        "Dinner": [
+            "Chole",
+            "Bhature"
+        ]
+    },
+    "Saturday": {
+        "Breakfast": [
+            "Bread",
+            "Butter",
+            "Tea"
+        ],
+        "Lunch": [
+            "Rajma",
+            "Rice",
+            "Roti"
+        ],
+        "Snacks": [
+            "Pakora",
+            "Tea"
+        ],
+        "Dinner": [
+            "Veg Biryani",
+            "Raita"
+        ]
+    },
+    "Sunday": {
+        "Breakfast": [
+            "Puri",
+            "Aloo Sabzi"
+        ],
+        "Lunch": [
+            "Special Thali"
+        ],
+        "Snacks": [
+            "Cake",
+            "Juice"
+        ],
+        "Dinner": [
+            "Fried Rice",
+            "Manchurian"
+        ]
+    }
+}
